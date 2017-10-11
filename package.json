@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-gpsuploader",
+  "version": "0.0.1",
+  "description": "GPS Uploader",
+  "cordova": {
+    "id": "cordova-plugin-gpsuploader",
+    "platforms": [
+      "android"
+    ]
+  },
+
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0"
+    }
+  ],
+  "peerDependencies": {
+    "cordova-plugin-device": ">=1.0.0"
+  },
+  "author": "ll_wang",
+  "license": "Apache 2.0 License"
+}
